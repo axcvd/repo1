@@ -1,2 +1,2 @@
-Small Thanks
-https://axcvd.github.io/repo/
+小謝
+https://axcvd.github.io/repo1/
