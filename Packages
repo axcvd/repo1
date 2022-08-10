@@ -11,7 +11,7 @@ SHA256: 02463ef8be7a56c4c39c92557ea1f9d3e730d4ab1359c94933114ee72305118b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.3DTools
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.3DTools
 Name: 3DTools繁體中文化
 
 Package: com.axcvd.ActionBar
@@ -27,7 +27,7 @@ SHA256: 655e8e5a49fc12365e7017cee909c0f723829d30d99f5370f1123c08195e42fe
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ActionBar
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ActionBar
 Name: ActionBar繁體中文化
 
 Package: com.axcvd.Airmessage
@@ -43,7 +43,7 @@ SHA256: 762e2f3181c197b5fd1e3a5ca89e1d31480ee0127b6b2ab3e962fb444f050d8a
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Airmessage
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Airmessage
 Name: Airmessage繁體中文化
 
 Package: com.axcvd.AnimationsBeFast
@@ -59,7 +59,7 @@ SHA256: c020739a26d0baef8d23b2de2311919d1d5dffaab73490c6490230db3c3d2d4c
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AnimationsBeFast
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AnimationsBeFast
 Name: AnimationsBeFast繁體中文化
 
 Package: com.axcvd.AntsPrefs
@@ -75,7 +75,7 @@ SHA256: 4d2e65cd654e7b3232ff97d20a5326f0f2f00943c4d335598e62144025e1ae33
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AntsPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AntsPrefs
 Name: AntsPrefs繁體中文化
 
 Package: com.axcvd.Asteroid
@@ -91,7 +91,7 @@ SHA256: e725e7bb4bc74419ed292225899d677343151e7f0082cbdbc7e002df89e612e2
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Asteroid
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Asteroid
 Name: Asteroid繁體中文化
 
 Package: com.axcvd.AutoBlue
@@ -107,7 +107,7 @@ SHA256: e12faed00b3bf72866b55fe24194b8662d2c3fd33fe1092677de6b74f7917716
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AutoBlue
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AutoBlue
 Name: AutoBlue繁體中文化
 
 Package: com.axcvd.BatteryFolderTitle
@@ -123,7 +123,7 @@ SHA256: 10382810dfb507a7c7cb09a6e6540e580b8406a95193fd1fe14fcfc335aa5d98
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BatteryFolderTitle
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BatteryFolderTitle
 Name: BatteryFolderTitle繁體中文化
 
 Package: com.axcvd.BatteryPercent12
@@ -139,7 +139,7 @@ SHA256: 6252070bdf3e9f7b12d9e285f0cac3ecd0296752d935b38a7750e78d6db1d108
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BatteryPercent12
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BatteryPercent12
 Name: BatteryPercent12繁體中文化
 
 Package: com.axcvd.BetterCCXI
@@ -155,7 +155,7 @@ SHA256: fc7d20376bc48100f88c660ba8ad0bd6ece99827fce97add472342f7060e0dbf
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BetterCCXI
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BetterCCXI
 Name: BetterCCXI繁體中文化
 
 Package: com.axcvd.BetterSettings
@@ -171,7 +171,7 @@ SHA256: 4ca384c67f4231905c235cb7782ecf9a9fa2856168c99f7defdc51dd597ce917
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BetterSettings
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BetterSettings
 Name: BetterSettings繁體中文化
 
 Package: com.axcvd.Bezon
@@ -187,7 +187,7 @@ SHA256: 1509910af9ce29e23860fc2e32548b5a42d5a6af42233ef3921569b5c23c9333
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Bezon
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Bezon
 Name: Bezon繁體中文化
 
 Package: com.axcvd.Bolders
@@ -203,7 +203,7 @@ SHA256: eff7cdda693208eb8c85929739b13e262b52779c0fd70e3abd8142e53c03319b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Bolders
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Bolders
 Name: Bolders繁體中文化
 
 Package: com.axcvd.BottomToolBar
@@ -219,7 +219,7 @@ SHA256: e7c926c86183c083644d0143b0995c0eb7ec4af1e9e7afd653dcbb0fa1a9bd4e
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BottomToolBar
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BottomToolBar
 Name: BottomToolBar繁體中文化
 
 Package: com.axcvd.Boxy
@@ -235,7 +235,7 @@ SHA256: 68d7d36963de80af2c2826916e3a7cb12a00611697cafd45390d415d03e31cd5
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Boxy
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Boxy
 Name: Boxy 繁體中文化
 
 Package: com.axcvd.CCRinger
@@ -251,7 +251,7 @@ SHA256: c13a4314f921a60c617386988b9533c39db9ba10cd82b26ab13b5488d410ec18
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CCRinger
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CCRinger
 Name: CCRinger繁體中文化
 
 Package: com.axcvd.CallBarXS
@@ -267,7 +267,7 @@ SHA256: 6f9d3c5a2796258747f788d599cb9460ec47f9fd36982b187fe904e6a1007f22
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CallBarXS
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CallBarXS
 Name: CallBar XS(iOS12/13)繁體中文化
 
 Package: com.axcvd.CallBlocker
@@ -283,7 +283,7 @@ SHA256: 1500c36459842cc09206940a86754ce2d1dd90973c7bbf29de8da738d6bdfea8
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CallBlocker
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CallBlocker
 Name: CallBlocker繁體中文化
 
 Package: com.axcvd.ChargeAnimations
@@ -299,7 +299,7 @@ SHA256: c4856a4768f8b0cd810b355c52aebb5554a9b98446fdc9ca9aeefa15c42ce33b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ChargeAnimations
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ChargeAnimations
 Name: ChargeAnimations繁體中文化
 
 Package: com.axcvd.CleanHomeScreen
@@ -315,7 +315,7 @@ SHA256: 7a02289a350c050525dbb39bb21c526abe23a94a7dc003bdcf122bacbc249dc8
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CleanHomeScreen
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CleanHomeScreen
 Name: CleanHomeScreen繁體中文化
 
 Package: com.axcvd.ColorMyCCModules
@@ -331,7 +331,7 @@ SHA256: 848287e844b6828d1d6d249b755d0266c5c6157fe74ab47773d98a2a8dc88219
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorMyCCModules
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ColorMyCCModules
 Name: ColorMyCCModules繁體中文化
 
 Package: com.axcvd.CoolCCPref
@@ -347,7 +347,7 @@ SHA256: 4b6fe4ffff4524b8e6bd2d7fa77b38e1a509d34fa931d6a5abb593a77de5fbb7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CoolCCPref
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CoolCCPref
 Name: CoolCCPref繁體中文化
 
 Package: com.axcvd.CoolFolderPref
@@ -363,7 +363,7 @@ SHA256: 3321d2635194d1b18a62631a9fdf680151cb97bf1f098f38f33e1574e548d03f
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CoolFolderPref
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CoolFolderPref
 Name: CoolFolderPref繁體中文化
 
 Package: com.axcvd.CopyLog
@@ -379,7 +379,7 @@ SHA256: d7946e3d7f78f9a5855a83a93eaeea4194b544d436a39dc16bf63ddc5f2ab08b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CopyLog
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CopyLog
 Name: CopyLog繁體中文化
 
 Package: com.axcvd.CrashReporter
@@ -395,7 +395,7 @@ SHA256: 98667b2ba2458f35539e1ebcb9c234cfaf857958ebd84644f08b607eda5965c0
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CrashReporter
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CrashReporter
 Name: CrashReporter繁體中文化
 
 Package: com.axcvd.Cydia
@@ -411,7 +411,7 @@ SHA256: 987bc0b03078ccd8246a6e72497b3bd6fc52a60dab1533407440181749835a3c
 Section: Localization
 Description: 使用前先裝主程式不然就
 Author: 匿名 <匿名>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cydia
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Cydia
 Name: Line gggg
 
 Package: com.axcvd.DLEasy
@@ -427,7 +427,7 @@ SHA256: de4889fdb9788a4c5bca92599015749b5536672d73948c81e706084887ff9176
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DLEasy
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DLEasy
 Name: DLEasy繁體中文化
 
 Package: com.axcvd.DarkChrome
@@ -443,7 +443,7 @@ SHA256: 19de53b112334c3460ddb666f428ed0df8a7950c1cf01b8a1af968a87af7f1c9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DarkChrome
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DarkChrome
 Name: DarkChrome繁體中文化
 
 Package: com.axcvd.DayNightSwitch
@@ -459,7 +459,7 @@ SHA256: 756c985c23da6b2f55adedf8a138e9c7074e4a0ca6d36666e4d2fbf8ecb2b877
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DayNightSwitch
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DayNightSwitch
 Name: DayNightSwitch繁體中文化
 
 Package: com.axcvd.DenyPhotoAlbums
@@ -475,7 +475,7 @@ SHA256: 409fa7470430bf8b0f969b387207c9723a9409f69136c0955751c9fd54d46a4b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DenyPhotoAlbums
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DenyPhotoAlbums
 Name: DenyPhotoAlbums繁體中文化
 
 Package: com.axcvd.DoubleTapLockPrefs
@@ -491,7 +491,7 @@ SHA256: 81d1e6cfbb1a6cf1439652d73e51044c9d4303fd9d4f762c21045cb0f47d52c8
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DoubleTapLockPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DoubleTapLockPrefs
 Name: DoubleTapLockPrefs繁體中文化
 
 Package: com.axcvd.Dune
@@ -507,7 +507,7 @@ SHA256: f06ca38663a63ad7f7adf10bd0d54ae3f632b4f4dd0d90a08cfff60075712bcf
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dune
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Dune
 Name: Dune繁體中文化
 
 Package: com.axcvd.EasySwitcherXPrefs
@@ -523,7 +523,7 @@ SHA256: 48f34ea411233638fe079fb47dcb181bbe9ce80cb1f33907888fd1f151662dcb
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.EasySwitcherXPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.EasySwitcherXPrefs
 Name: EasySwitcherXPrefs繁體中文化
 
 Package: com.axcvd.EclipseSettings
@@ -539,7 +539,7 @@ SHA256: 61d3dd784f2828f8fa34bfc840f5174fde7552d32fa955b4bee22c2038b052b8
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.EclipseSettings
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.EclipseSettings
 Name: EclipseSettings繁體中文化
 
 Package: com.axcvd.Ermete
@@ -555,7 +555,7 @@ SHA256: c235e092e90139438280e89116bebe00993a44f31df4d45e76c32195e6b7d9a0
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Ermete
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Ermete
 Name: Ermete繁體中文化
 
 Package: com.axcvd.FacesPro
@@ -571,7 +571,7 @@ SHA256: 5588ee89cabba88baa9ced701fc03a603a83b101da6bf531752934b2b361be7a
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FacesPro
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.FacesPro
 Name: FacesPro繁體中文化
 
 Package: com.axcvd.FloatingDockPlus
@@ -587,7 +587,7 @@ SHA256: 8646ca6a286932f338b8c4c2a3b144ed8aa0a4af2985ccbbd3db438877942091
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FloatingDockPlus
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.FloatingDockPlus
 Name: FloatingDockPlus繁體中文化
 
 Package: com.axcvd.FloatingDockPlus13
@@ -603,7 +603,7 @@ SHA256: 4f017181a50b291e19a5035b7112a5e60efe91a2354e142708298558a2f45e5e
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FloatingDockPlus13
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.FloatingDockPlus13
 Name: FloatingDockPlus13 繁體中文化
 
 Package: com.axcvd.Glowy
@@ -619,7 +619,7 @@ SHA256: 9906849dbbc94fe0b0893f2352529996bb6f58da47011636b2045a5d448ab140
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Glowy
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Glowy
 Name: Glowy繁體中文化
 
 Package: com.axcvd.HomeSwitcher
@@ -635,7 +635,7 @@ SHA256: 44f39460bb0132793a62af55bcbfd8839e97457004876f35248851df0ae51479
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HomeSwitcher
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.HomeSwitcher
 Name: HomeSwitcher繁體中文化
 
 Package: com.axcvd.KillBackground
@@ -651,7 +651,7 @@ SHA256: d92c0c9f18393005608619e41fe0a3b92276e897da9eac200e9af0aa781e0969
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.KillBackground
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.KillBackground
 Name: KillBackground繁體中文化
 
 Package: com.axcvd.LINEToolsXII
@@ -667,7 +667,7 @@ SHA256: f3f913d5ab84182ba728578d502176d6f340b62f00e7afb7cae4ac3b8ccbddd4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LINEToolsXII
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LINEToolsXII
 Name: LINEToolsXII繁體中文化
 
 Package: com.axcvd.LatchKey
@@ -683,7 +683,7 @@ SHA256: ad8d66006c2f25ca148faa8c983dabf10075b71efd52f2739b4dd858f1a989d3
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LatchKey
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LatchKey
 Name: LatchKey繁體中文化
 
 Package: com.axcvd.Launchtron
@@ -699,7 +699,7 @@ SHA256: ddfc4b94301fe0eec8ae82e0d81d26d9c4403b9aad9321506bb3715b3184ebed
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Launchtron
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Launchtron
 Name: Launchtron繁體中文化
 
 Package: com.axcvd.LibertyPref
@@ -715,7 +715,7 @@ SHA256: 96c6f1a65a915980e31bc1ca111fc70a56033045008a8093d6754896de0ae2bd
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LibertyPref
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LibertyPref
 Name: LibertyPref繁體中文化
 
 Package: com.axcvd.LineToolsPreference
@@ -731,7 +731,7 @@ SHA256: b6e55411e85ff8a859f464dac2cf2d6e4582c2bdc78621c1de0c085237b9ec3b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LineToolsPreference
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LineToolsPreference
 Name: LineToolsPreference繁體中文化
 
 Package: com.axcvd.Localizations
@@ -747,7 +747,7 @@ SHA256: 1a99da4deac798e0c95d6c1ec8170cffc6586da162e5aab62961cb47355ba685
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Localizations
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Localizations
 Name: Localizations繁體中文化
 
 Package: com.axcvd.LockPage
@@ -763,7 +763,7 @@ SHA256: 655bdc38cf5e54a6c249c72981aa577a5b13b8a1edf084e610ee8860d81aa5e5
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LockPage
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LockPage
 Name: LockPage繁體中文化
 
 Package: com.axcvd.Malipo
@@ -779,7 +779,7 @@ SHA256: fc7abd5af8333b7d4bc9501dcc6d2c345f251139cffadb6d568d6e420645b6da
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Malipo
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Malipo
 Name: Malipo繁體中文化
 
 Package: com.axcvd.Mejor
@@ -795,7 +795,7 @@ SHA256: 8fad219598a362c7b0946b959d2d39a97bbdf0cb5541172146697424be5ea46d
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Mejor
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Mejor
 Name: Mejor繁體中文化
 
 Package: com.axcvd.NCGrabberInfo
@@ -811,7 +811,7 @@ SHA256: d78bcffaf383d6157b93edfa76827db967d805dd035d324d5a84723dc6eb1b42
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NCGrabberInfo
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NCGrabberInfo
 Name: NCGrabberInfo繁體中文化
 
 Package: com.axcvd.NFCWriter
@@ -827,7 +827,7 @@ SHA256: 02491d48da346643115e5c15562ebf0f3899fd91f5a51843f6e21037681a5287
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NFCWriter
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NFCWriter
 Name: NFCWriter繁體中文化
 
 Package: com.axcvd.NPF
@@ -843,7 +843,7 @@ SHA256: 693400b87fc4f158905345a7ce121a17bccc7a3e52b6f8fd3760c974eee590fd
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NPF
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NPF
 Name: NPF繁體中文化
 
 Package: com.axcvd.NPFPref
@@ -859,7 +859,7 @@ SHA256: 2c79a6a436dbe7a97f70519e99ad3e4e92b06e4966779f13ea90ae4fc8fb3fba
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NPFPref
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NPFPref
 Name: NPFPref繁體中文化
 
 Package: com.axcvd.NoSubstitute
@@ -875,7 +875,7 @@ SHA256: 49cbe04b2cc5e18c39a2cda5a2020bf6d33096aa1b27cc56ff2279efa50f55a4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NoSubstitute
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NoSubstitute
 Name: NoSubstitute繁體中文化
 
 Package: com.axcvd.Notchificatio
@@ -891,7 +891,7 @@ SHA256: 1b772a928e225f9a111a57827257b94963ccc9753072a2527b68d3bf8f4ae050
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Notchificatio
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Notchificatio
 Name: Notchificatio繁體中文化
 
 Package: com.axcvd.NudeKeys
@@ -907,7 +907,7 @@ SHA256: bef0348e2be75d87b21374fee622b46aacb3713ed258e4fcf86add2ca397b026
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NudeKeys
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NudeKeys
 Name: NudeKeys繁體中文化
 
 Package: com.axcvd.OpenSshPort
@@ -923,7 +923,7 @@ SHA256: fbc54f182a0277986590fc7783fea8919a02ae5cccfaa6ce76616f768393e0f7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.OpenSshPort
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.OpenSshPort
 Name: OpenSSH繁體中文化
 
 Package: com.axcvd.Palette
@@ -939,7 +939,7 @@ SHA256: 5b8f73530364f90de9476790e1f1689f239c9e94968526811c5d2e13245d4530
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Palette
+Depiction: https://axcvd.github.io/repo1depictions/?p=com.axcvd.Palette
 Name: Palette繁體中文化
 
 Package: com.axcvd.PowerModule
@@ -955,7 +955,7 @@ SHA256: b0df80c3ae079d6521a0ea67b5aea847ab3084d3cc07ce6b995523426f49e424
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PowerModule
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.PowerModule
 Name: PowerModule繁體中文化
 
 Package: com.axcvd.Relocate
@@ -971,7 +971,7 @@ SHA256: c89c088af7320065cf04cafec3a1b15493924928d3f59d0cdd97210e8e273af5
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Relocate
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Relocate
 Name: Relocate繁體中文化
 
 Package: com.axcvd.SelectorPrefs
@@ -987,7 +987,7 @@ SHA256: 282e94a1efcb9c41da60f612771d5c7ba9874dc6527347bdf484b1ffb6a951b5
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SelectorPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SelectorPrefs
 Name: SelectorPrefs繁體中文化
 
 Package: com.axcvd.Shadow
@@ -1003,7 +1003,7 @@ SHA256: a7cad4c7fa023f66be58e41fe6e010ce9d5d18b5949223a3950234a8394ef046
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Shadow
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Shadow
 Name: Shadow繁體中文化
 
 Package: com.axcvd.ShowTouch
@@ -1019,7 +1019,7 @@ SHA256: 532f96499feec651ef376c5ff435739a79f85a4c5f920f15949fe754d74e4dc9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ShowTouch
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ShowTouch
 Name: ShowTouch繁體中文化
 
 Package: com.axcvd.Sleeper
@@ -1035,7 +1035,7 @@ SHA256: 6ff8a90aab7adb5c4fdbd8edea438adc50ec43bc55c39bb2e6525dae7430f49a
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Sleeper
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Sleeper
 Name: Sleeper繁體中文化
 
 Package: com.axcvd.SmartLPM
@@ -1051,7 +1051,7 @@ SHA256: ba413c8df45c699d0fec4b649ff4115f23ce0f2f0eefab10ad1ebc013bf877bf
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmartLPM
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SmartLPM
 Name: SmartLPM繁體中文化
 
 Package: com.axcvd.SnowboardPrefs
@@ -1067,7 +1067,7 @@ SHA256: 18736815e0c87ba116708dc79fcfe900fa5b1186e0db8926bf3dfc2797c98ae8
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SnowboardPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SnowboardPrefs
 Name: SnowboardPrefs繁體中文化
 
 Package: com.axcvd.SpinSettings
@@ -1083,7 +1083,7 @@ SHA256: 397a83042aeff18ca53f4713b40dd3df036c31591bf32f7efbb2c516765b6533
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SpinSettings
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SpinSettings
 Name: SpinSettings繁體中文化
 
 Package: com.axcvd.SpringPref
@@ -1099,7 +1099,7 @@ SHA256: fc5835d2cdff3046301f178f63804bd20765b91fdf8be34d2fabe25eda5355c1
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SpringPref
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SpringPref
 Name: SpringPref繁體中文化
 
 Package: com.axcvd.SpringPref11
@@ -1115,7 +1115,7 @@ SHA256: aa5290691edf8dec957ac7cb067709ff82e2e4c849b3ef2aeb13a1a264771eac
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SpringPref11
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SpringPref11
 Name: SpringPref11繁體中文化
 
 Package: com.axcvd.SpringToolz
@@ -1131,7 +1131,7 @@ SHA256: 62a77e2c1c8c555ac24e1ff2b0e281578a321e78f990895420ad077716d8a9ff
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SpringToolz
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SpringToolz
 Name: SpringToolz繁體中文化
 
 Package: com.axcvd.Springtomize4
@@ -1147,7 +1147,7 @@ SHA256: e3da73c4fdd9b0b33df3ad4654af66d9fe0d1c35cf8a2cc83a1f6616c3ff55f7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Springtomize4
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Springtomize4
 Name: Springtomize4繁體中文化
 
 Package: com.axcvd.Stylish11
@@ -1163,7 +1163,7 @@ SHA256: da10434e2a86e0ab8b2302f9f9bba9a0912ecdbb9300f1cff65a22bc04d24d5c
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Stylish11
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Stylish11
 Name: Stylish11繁體中文化
 
 Package: com.axcvd.Tinnitus
@@ -1179,7 +1179,7 @@ SHA256: b704929be313ed0917237cc250c04c7b196587b4a1387a8a25d83a1c24cf534f
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Tinnitus
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Tinnitus
 Name: Tinnitus繁體中文化
 
 Package: com.axcvd.TintIconLabel
@@ -1195,7 +1195,7 @@ SHA256: c0f4331edb59ba027bdc4b5d50fa69bf7447ff59cee4d48372f43966681a80af
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TintIconLabel
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TintIconLabel
 Name: TintIconLabel繁體中文化
 
 Package: com.axcvd.Togglow
@@ -1211,7 +1211,7 @@ SHA256: e52f292df69c42a4576f48e1252be506cb557d49a30d3762c207ccbb207b58da
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Togglow
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Togglow
 Name: Togglow繁體中文化
 
 Package: com.axcvd.UnSubPrefs
@@ -1227,7 +1227,7 @@ SHA256: 08f92bb473ee63c3d22bd0ca715203454f88c27739d455da45f3d7bd96319b38
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.UnSubPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.UnSubPrefs
 Name: UnSubPrefs繁體中文化
 
 Package: com.axcvd.Vesta
@@ -1243,7 +1243,7 @@ SHA256: b103ed092e7b6a4c02af96d8a78f02bc84c34c9faa5330e1b5c2a4a88e0bceb9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Vesta
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Vesta
 Name: Vesta繁體中文化
 
 Package: com.axcvd.WiiVampPref
@@ -1259,7 +1259,7 @@ SHA256: b5dcce679c5535c5217a390d8e6b87b18aa0d7a376ef2dfe2ac1cb0826ff25e0
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.WiiVampPref
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.WiiVampPref
 Name: WiiVampPref繁體中文化
 
 Package: com.axcvd.XenInfo
@@ -1275,7 +1275,7 @@ SHA256: bc3b4b872784e39330f415c20cd654e7781e04600fca81b5d9d07652eae0375d
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.XenInfo
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.XenInfo
 Name: XenInfo繁體中文化
 
 Package: com.axcvd.anilaunchprefs
@@ -1291,7 +1291,7 @@ SHA256: 656e45c88391ba505b00a8fe9edc78dd31735f70676d7000074620f837fe6be2
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.anilaunchprefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.anilaunchprefs
 Name: anilaunchprefs繁體中文化
 
 Package: com.axcvd.batterynotchprefs
@@ -1307,7 +1307,7 @@ SHA256: 9321e61ad2d3df8736a8c61e49a919791d89aa08f96280fdbd0b83d0d0dea8e9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.batterynotchprefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.batterynotchprefs
 Name: batterynotchprefs繁體中文化
 
 Package: com.axcvd.batterypercentxprefs
@@ -1323,7 +1323,7 @@ SHA256: 5009abe201d84b80b746f73b0f4ecd8c7fd612b9be9c83ab8e9a1b4543ec3ad9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.batterypercentxprefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.batterypercentxprefs
 Name: batterypercentxprefs繁體中文化
 
 Package: com.axcvd.cbprefs
@@ -1339,7 +1339,7 @@ SHA256: 2000a3117e04f3f3f2e498728e431e5cf6a153ba3aa6803741e913d7e3f7b612
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.cbprefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.cbprefs
 Name: cbprefs繁體中文化
 
 Package: com.axcvd.certprefs
@@ -1355,7 +1355,7 @@ SHA256: e260137be51b92f81f8290da08b41f447f903c13a8af827b20a1abaf7b1c42f1
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.certprefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.certprefs
 Name: certprefs繁體中文化
 
 
@@ -1372,7 +1372,7 @@ SHA256: facade825f8ebb48d946e129dcda7b6af878ce60a569c08fca8e3125364bba95
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.iThemer
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.iThemer
 Name: iThemer繁體中文化
 
 Package: com.axcvd.sawprefs
@@ -1388,7 +1388,7 @@ SHA256: 43bb22bd382e5a593212dcd8a8a4cb40efbee6aadd04aa771ad83ab8209fee9e
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.sawprefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.sawprefs
 Name: sawprefs繁體中文化
 
 Package: com.axcvd.shuffle
@@ -1404,7 +1404,7 @@ SHA256: 77734931380c9e13274556835452dbb911e7ec4686d78f2ecd12d722d4d4eafb
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.shuffle
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.shuffle
 Name: shuffle繁體中文化
 
 Package: com.axcvd.snoverlaypreferences
@@ -1420,7 +1420,7 @@ SHA256: 8952419f229099530941f30b180a1f7269840f2afb9a4f604b93d603ef0d5683
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.snoverlaypreferences
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.snoverlaypreferences
 Name: snoverlaypreferences繁體中文化
 
 Package: com.axcvd.tinybanners2
@@ -1436,7 +1436,7 @@ SHA256: 78d0733d2955f9c9b7f3873ee6daae58cbc799f9e4c5c048a7a7cfb53cc83297
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.tinybanners2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.tinybanners2
 Name: tinybanners2繁體中文化
 
 Package: com.axcvd.unlocksound7prefs
@@ -1452,7 +1452,7 @@ SHA256: a46ca0a451440dae2d95f994ef55dc2248c4d315f7d2321c296a6473fe61e729
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.unlocksound7prefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.unlocksound7prefs
 Name: unlocksound7prefs繁體中文化
 
 Package: com.axcvd.voicechanger
@@ -1468,7 +1468,7 @@ SHA256: a43b1c56349b3282d9828ea57657b54bc4d0b026e39839b5c07e4aae7b1b2551
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.voicechanger
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.voicechanger
 Name: voicechanger繁體中文化
 
 Package: com.axcvd.youtubetools
@@ -1484,7 +1484,7 @@ SHA256: e7539cc1e5de3edd4433ebb25be2a35374aa465d338f2ebdd63d3fa919e74c61
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.youtubetools
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.youtubetools
 Name: youtubetools繁體中文化
 
 Package: com.axcvd.BetterCCIcons13
@@ -1500,7 +1500,7 @@ SHA256: 139db45f643067634485a58e3ef8f4e9e8c32116e51b15d645ffebb2784fc332
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BetterCCIcons13
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BetterCCIcons13
 Name: BetterCCIcons13繁體中文化
 
 Package: com.axcvd.ColorBanners3Prefs
@@ -1516,7 +1516,7 @@ SHA256: e41e58a5fdd0b514775f10c6bdd25ff976d616fdf74e013c5e60be00063c7034
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorBanners3Prefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ColorBanners3Prefs
 Name: ColorBanners3Prefs繁體中文化
 
 Package: com.axcvd.PencilChargingIndicatorPreferences
@@ -1532,7 +1532,7 @@ SHA256: a09e2f87f152495667ee0e1c7241e3a238675cc5ea3f92d7a5ca5699bf0fdb9c
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PencilChargingIndicatorPreferences
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.PencilChargingIndicatorPreferences
 Name: PencilChargingIndicatorPreferences繁體中文化
 
 Package: com.axcvd.Sylph
@@ -1548,7 +1548,7 @@ SHA256: 7c4b3f1ee54f8eb8f9d2711872c115410074d52ec6ad09f04cd8132bc9b82ce0
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Sylph
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Sylph
 Name: Sylph繁體中文化
 
 Package: com.axcvd.Blots
@@ -1564,7 +1564,7 @@ SHA256: 8fa7586c1ff831be7b9404275027427ff9c0efd0cb2ea8aab242acf96c1e97bd
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Blots
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Blots
 Name: Sylph繁體中文化
 
 Package: com.axcvd.AquaPrefs
@@ -1580,7 +1580,7 @@ SHA256: e6d49e2478e2bb66657244721e023be97b737412b793ac3e8c319df723d56179
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AquaPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AquaPrefs
 Name: AquaPrefs繁體中文化
 
 Package: com.axcvd.ComplicationsPrefs
@@ -1596,7 +1596,7 @@ SHA256: 3fd20ec641cb410abc59778545ee67532ae51aa47cf7eeb8bc50ead98cfe95f2
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ComplicationsPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ComplicationsPrefs
 Name: ComplicationsPrefs繁體中文化
 
 Package: com.axcvd.TuneSettings
@@ -1612,7 +1612,7 @@ SHA256: f566fbc7e36498961f17400244cb3dbf58164ff1abb1f152555732669aded7ea
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TuneSettings
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TuneSettings
 Name: TuneSettings繁體中文化
 
 Package: com.axcvd.QuickLSPrefs
@@ -1628,7 +1628,7 @@ SHA256: c56b9a99a015b052549ec599b9123c7be4454a69026829a857585a30f391dfad
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.QuickLSPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.QuickLSPrefs
 Name: QuickLSPrefs繁體中文化
 
 Package: com.axcvd.AppTic
@@ -1644,7 +1644,7 @@ SHA256: b803bda8f405ea009010138044b3ac05ebd10a74e66c710a5fdd86df5cd7a03a
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AppTic
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AppTic
 Name: AppTic繁體中文化
 
 Package: com.axcvd.BlueFinderPref
@@ -1660,7 +1660,7 @@ SHA256: 4ab1af430d23b0f8b67c40b6976d03f019373e8f7fe485e7fd9672766652fed9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BlueFinderPref
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BlueFinderPref
 Name: BlueFinderPref繁體中文化
 
 Package: com.axcvd.SmearOff
@@ -1676,7 +1676,7 @@ SHA256: 2055c3d407be2c6fd4895fcc2487b7f54b89719706cede517a6ef825fb5ae2f9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmearOff
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SmearOff
 Name: SmearOff繁體中文化
 
 Package: com.axcvd.chargingbubbles
@@ -1692,7 +1692,7 @@ SHA256: 62e6b8f0ae1a581eb336dc09aeb22484178d29ec1bdcf7f87455a1675c351bb5
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.chargingbubbles
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.chargingbubbles
 Name: chargingbubbles繁體中文化
 
 Package: com.axcvd.HideStatusBarItemsPro
@@ -1708,7 +1708,7 @@ SHA256: 9d849ee7fc912f043cf9b7e079e6a9614c4147ed29bcf76cfab662529248b9f3
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HideStatusBarItemsPro
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.HideStatusBarItemsPro
 Name: HideStatusBarItemsPro繁體中文化
 
 Package: com.axcvd.StatusModifierLoader
@@ -1724,7 +1724,7 @@ SHA256: d565122a34181910a479fdf234371c355b7fe7710926e5aa083b9341472f73a1
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.StatusModifierLoader
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.StatusModifierLoader
 Name: StatusModifierLoader繁體中文化
 
 Package: com.axcvd.VolFlash
@@ -1740,7 +1740,7 @@ SHA256: 1c240a5506b4dc3830d870281829dff500f36aba10f650f3293af092d3ff9d50
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.VolFlash
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.VolFlash
 Name: VolFlash繁體中文化
 
 Package: com.axcvd.KillBackgroundSettings
@@ -1756,7 +1756,7 @@ SHA256: 598e5461b50754626b48009c60ba6ae1e1c9ae8fad3e7d44d47e4053d54fb341
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.KillBackgroundSettings
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.KillBackgroundSettings
 Name: KillBackgroundSettings繁體中文化
 
 Package: com.axcvd.EasyAccess
@@ -1772,7 +1772,7 @@ SHA256: 66dbc183e395af1f1d32a01a1d7b970843ac4bf0c6be4d6e3203efa34cafc067
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.EasyAccess
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.EasyAccess
 Name: EasyAccess繁體中文化
 
 Package: com.axcvd.appshortcut2
@@ -1788,7 +1788,7 @@ SHA256: 76ae760696c82ef0b503b7016f3ac1acf48a3a02af5ea2af28f7fe03e8eaf758
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.appshortcut2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.appshortcut2
 Name: appshortcut2繁體中文化
 
 Package: com.axcvd.CustomLock2
@@ -1804,7 +1804,7 @@ SHA256: 7578ca10bc9df91fecee7dccac9b84d95893814b59bd855b111360cf7a9d4424
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CustomLock2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CustomLock2
 Name: CustomLock2繁體中文化
 
 Package: com.axcvd.ShaderPreferences
@@ -1820,7 +1820,7 @@ SHA256: ae01728dbc7fb73b6a029d30d14348e3046b598663920337542cc86033ee8b0f
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ShaderPreferences
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ShaderPreferences
 Name: ShaderPreferences繁體中文化
 
 Package: com.axcvd.abprefs12
@@ -1836,7 +1836,7 @@ SHA256: e1797dfd6dedf8fac865f6c2d628365db607c7784e518a2f9d08fc0ba4de7ca3
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.abprefs12
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.abprefs12
 Name: abprefs12繁體中文化
 
 Package: com.axcvd.MagmaEvo
@@ -1852,7 +1852,7 @@ SHA256: 3c59b66cc05ac89348efe4342bf540ea280436222971c976ee82155b4bce3bf7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MagmaEvo
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MagmaEvo
 Name: MagmaEvo繁體中文化
 
 Package: com.axcvd.AutoUnlockX
@@ -1868,7 +1868,7 @@ SHA256: 0c2c51a91052e4f2584590477971981de36b5e5fb267df3a9f8f92d557f4c67f
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AutoUnlockX
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AutoUnlockX
 Name: AutoUnlockX繁體中文化
 
 Package: com.axcvd.Cask
@@ -1884,7 +1884,7 @@ SHA256: 4fbdaf415bc5b40c2811e319656c54bd7905590e4df8f3e8ad79b82a1ed7e846
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cask
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Cask
 Name: Cask繁體中文化
 
 Package: com.axcvd.frontpage
@@ -1900,7 +1900,7 @@ SHA256: 8dc410b713888745d5087078bc4b08050584233691d5e798c05513f9eaa473f8
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.frontpage
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.frontpage
 Name: frontpage繁體中文化
 
 Package: com.axcvd.RealKeys
@@ -1916,7 +1916,7 @@ SHA256: e47da809d4af067ecb5012b5af47dc17a83493ce0b419076c4f281f89d8c4b9a
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.RealKeys
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.RealKeys
 Name: RealKeys繁體中文化
 
 Package: com.axcvd.LockApps
@@ -1932,7 +1932,7 @@ SHA256: 12351430c7a17bf0c4da8ba5148836b3971638bf6f1ea2b5fd41db1dc811ba32
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LockApps
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LockApps
 Name: LockApps繁體中文化
 
 Package: com.axcvd.SmartNetwork
@@ -1948,7 +1948,7 @@ SHA256: 4db6d5b93280dc76448586f11f919c593285985f4765fecc9dd9bc5efe50d7a1
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmartNetwork
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SmartNetwork
 Name: SmartNetwork繁體中文化
 
 Package: com.axcvd.AutoScroll
@@ -1964,7 +1964,7 @@ SHA256: 7bcc173f50e64df28975c18f1594c4828aa434b25bfb8f486bdbbc3449ae120a
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AutoScroll
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AutoScroll
 Name: AutoScroll繁體中文化
 
 Package: com.axcvd.TweakConfigurator
@@ -1980,7 +1980,7 @@ SHA256: d98f216b5b576d58fdef62ac9963bc53da39146a352891fd5804788846c656fb
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TweakConfigurator
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TweakConfigurator
 Name: TweakConfigurator繁體中文化
 
 Package: com.axcvd.SafariPlus
@@ -1996,7 +1996,7 @@ SHA256: 7f631468b42a51b497315ff7d94c19561d8011d81e41387322342a02e7558784
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SafariPlus
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SafariPlus
 Name: Safari Plus繁體中文化
 
 Package: com.axcvd.BadgeBar
@@ -2012,7 +2012,7 @@ SHA256: 790cb13bd785434811615ca07329e3b6c267b5970bbe567bc5158b10a22a469d
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BadgeBar
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BadgeBar
 Name: BadgeBar繁體中文化
 
 Package: com.axcvd.Sareth
@@ -2028,7 +2028,7 @@ SHA256: bca5b59b57cc2fc279cb7364276c7860f873ba4c89b0ec0881faa0de2f3dde85
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Sareth
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Sareth
 Name: Sareth繁體中文化
 
 Package: com.axcvd.LINEExtention
@@ -2044,7 +2044,7 @@ SHA256: 3ebb165b43839a0c8e8d37ff69b03d48bf74c6ee4b50418bafe3e651927d6239
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LINEExtention
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LINEExtention
 Name: LINE Extention繁體中文化
 
 Package: com.axcvd.ColorFlow5
@@ -2060,7 +2060,7 @@ SHA256: 106b614bf7c13f47cfd8e7128f9db239701ed8318598b0c80cc1190184d11192
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorFlow5
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ColorFlow5
 Name: ColorFlow5繁體中文化
 
 Package: com.axcvd.DigitalBattery13
@@ -2076,7 +2076,7 @@ SHA256: f7da64173b1c2f955bbd705cddb5482510a116975751424a96efb47d3c9d1304
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DigitalBattery13
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DigitalBattery13
 Name: DigitalBattery13繁體中文化
 
 Package: com.axcvd.PureFocus2
@@ -2092,7 +2092,7 @@ SHA256: 37a5da9c8604d70786c7beea21430d787cb6ab74fc0577a56d9c4210f8f03055
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PureFocus2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.PureFocus2
 Name: PureFocus2繁體中文化
 
 Package: com.axcvd.Flowic
@@ -2108,7 +2108,7 @@ SHA256: a6d32d8c99af88d586b5c2e54a858da4adf2eb01424206d334bc53502a1cbaa3
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Flowic
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Flowic
 Name: Flowic繁體中文化
 
 Package: com.axcvd.VolVibes
@@ -2124,7 +2124,7 @@ SHA256: 666bdc21104df86e5e363912eaa53d1b9a6cce19bf08016f08679ef3e3749e1f
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.VolVibes
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.VolVibes
 Name: VolVibes繁體中文化
 
 Package: com.axcvd.FloatyTab
@@ -2140,7 +2140,7 @@ SHA256: e7bd0eefbcbcc21638857c1d67b16195830b8f8fcc9ae09f953a06acab947782
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FloatyTab
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.FloatyTab
 Name: FloatyTab繁體中文化
 
 Package: com.axcvd.Harbor3
@@ -2156,7 +2156,7 @@ SHA256: a29a3052bab0f36f8e4251799e997c1e4bc03e514af1755c8e679470d5f33292
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Harbor3
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Harbor3
 Name: Harbor3繁體中文化
 
 Package: com.axcvd.SetCol
@@ -2172,7 +2172,7 @@ SHA256: 19b1ecfd9b876c577f13bdb4133d4f8b76bec38caf244cda8ce7eae9b1afa7a7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SetCol
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SetCol
 Name: SetCol繁體中文化
 
 Package: com.axcvd.FlyJB
@@ -2188,7 +2188,7 @@ SHA256: 4f22eb830525168ca5ffa8bf1226f9e66b61698cdb0c695f4fe032db27efbd55
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FlyJB
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.FlyJB
 Name: FlyJB繁體中文化
 
 Package: com.axcvd.ByeHomeBottomBarX
@@ -2204,7 +2204,7 @@ SHA256: 2a410a9a7939b284a3daa0b67074925718050b352e6d9a7d44beb1ff5b98787f
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ByeHomeBottomBarX
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ByeHomeBottomBarX
 Name: ByeHomeBottomBarX繁體中文化
 
 Package: com.axcvd.Dockify
@@ -2220,7 +2220,7 @@ SHA256: 5c59f3e2008da9607c6d24e8e288695ce26d02bc0ae64cd63750aceb6dca8e21
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dockify
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Dockify
 Name: Dockify繁體中文化
 
 Package: com.axcvd.AnimationsBeFastPlus
@@ -2236,7 +2236,7 @@ SHA256: c315fe390ee2088f9417b04075799a190de77e6e1d1aeacf04357831c8792b86
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AnimationsBeFastPlus
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AnimationsBeFastPlus
 Name: AnimationsBeFastPlus繁體中文化
 
 Package: com.axcvd.LINETools2
@@ -2252,7 +2252,7 @@ SHA256: 3010ecc9ff207f8e2565e6ee052627c5638b475a888beeb0fefa2846ead037cf
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LINETools2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LINETools2
 Name: LINE Tools2繁體中文化
 
 Package: com.axcvd.Cask2
@@ -2268,7 +2268,7 @@ SHA256: ed253f4986661a41d72e6c6d2328cb0f206bbac6ac26729d4a01e81e38247577
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cask2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Cask2
 Name: Cask 2繁體中文化
 
 Package: com.axcvd.ColorSystemPro
@@ -2284,7 +2284,7 @@ SHA256: 3969e3bfff54b1d190c462e58b5faa8103bc5d021a0a0eafc80831311f315833
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorSystemPro
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ColorSystemPro
 Name: ColorSystemPro繁體中文化
 
 Package: com.axcvd.BrightnessEvents12
@@ -2300,7 +2300,7 @@ SHA256: b135c30eb1d9cb6984f008c56aeef018fe9b32de7818c7f5a35304e5c63e7e57
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BrightnessEvents12
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BrightnessEvents12
 Name: BrightnessEvents12繁體中文化
 
 Package: com.axcvd.Springtomize5
@@ -2316,7 +2316,7 @@ SHA256: 3c72a06f47f86b32c51e500dd4a69738bed644e0bb08a1fbbf5f3ea1ea0a31ff
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Springtomize5
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Springtomize5
 Name: Springtomize 5繁體中文化
 
 Package: com.axcvd.MyHapticSwitches
@@ -2332,7 +2332,7 @@ SHA256: 03bbcb7a6aa6636822dea425af423f5da9691b90302d2fca90fb7884256542b9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MyHapticSwitches
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MyHapticSwitches
 Name: MyHapticSwitches繁體中文化
 
 Package: com.axcvd.Darkmode
@@ -2348,7 +2348,7 @@ SHA256: daea6e6fa3cb043203cf52af48aec1d15aab68248a5225eceea9040a02df4726
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Darkmode
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Darkmode
 Name: Darkmode繁體中文化
 
 Package: com.axcvd.MessagesXI
@@ -2364,7 +2364,7 @@ SHA256: 648efcf35f8e7b0c725c3cd2ddaa9bde92765a9eb91dcb94d4c109a2dda819a4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MessagesXI
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MessagesXI
 Name: MessagesXI繁體中文化
 
 Package: com.axcvd.Ability
@@ -2380,7 +2380,7 @@ SHA256: f0b4db49bf989dfe7cdb542fe026d09da15f233cc081c21688fe8ecad92a7b18
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Ability
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Ability
 Name: Ability繁體中文化
 
 Package: com.axcvd.RoundedDocklite
@@ -2396,7 +2396,7 @@ SHA256: feb3edbb1132f8c3bc8ed21f1f858ac2305c3aee93dbd4b22a064c950b2da4ea
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.RoundedDocklite
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.RoundedDocklite
 Name: RoundedDock lite繁體中文化
 
 Package: com.axcvd.HalFiPad
@@ -2412,7 +2412,7 @@ SHA256: 1d7f6ccaf1b521aebe543bcf3388d9143db7b6797227673a55c939dea4db6caf
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HalFiPad
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.HalFiPad
 Name: HalFiPad繁體中文化
 
 Package: com.axcvd.ChatSpeaker
@@ -2428,7 +2428,7 @@ SHA256: 6af6d5f2baf7c8893dd2c21067f05f44cad00f0badd8cfb1d0c21d87a62d19aa
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ChatSpeaker
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ChatSpeaker
 Name: ChatSpeaker繁體中文化
 
 Package: com.axcvd.Frame
@@ -2444,7 +2444,7 @@ SHA256: ca4abbf24532203fd1ab7dba43444ea3338198a8ea6043a68f66a341559f87e7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Frame
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Frame
 Name: Frame繁體中文化
 
 Package: com.axcvd.Himiko13
@@ -2460,7 +2460,7 @@ SHA256: 869e292abb8406272cdefdc57f8c540024486043a10b10e8da040c23aaee76ad
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Himiko13
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Himiko13
 Name: Himiko13繁體中文化
 
 Package: com.axcvd.Slices3
@@ -2476,7 +2476,7 @@ SHA256: 821049ee313404078e84de1d4861de38c0db4733442f06a6b55ea5022e842fdb
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Slices3
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Slices3
 Name: Slices3繁體中文化
 
 Package: com.axcvd.Slices2
@@ -2492,7 +2492,7 @@ SHA256: 4d8e4773ba5cde05e7a3bc1825d3d6af1e8c511ae4d4d6adcc9dec39f2a44773
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Slices2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Slices2
 Name: Slices2繁體中文化
 
 Package: com.axcvd.MobileGoose
@@ -2508,7 +2508,7 @@ SHA256: fc6238e1670cc0efe6df0fe4055887f164e0fdb2c586f02126eaf86d1af7c458
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MobileGoose
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MobileGoose
 Name: MobileGoose繁體中文化
 
 
@@ -2525,7 +2525,7 @@ SHA256: e3afa89a698524a7b83117252de4f8d24aa59fd4823dae3d6b926fced1604448
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Genesis
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Genesis
 Name: Genesis繁體中文化
 
 Package: com.axcvd.Dragspring
@@ -2541,7 +2541,7 @@ SHA256: 94d9b656b70f8fdb3af56c7bc2a8a5acc3815835c724ab482899b5de060a5d8c
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dragspring
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Dragspring
 Name: Dragspring繁體中文化
 
 Package: com.axcvd.Grupi
@@ -2557,7 +2557,7 @@ SHA256: b98363cf4c1eec73b73622cc9854b71f1b69520b0bd3c9693e212f028bdeb955
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Grupi
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Grupi
 Name: Grupi繁體中文化
 
 Package: com.axcvd.BottomToolBar-Lite
@@ -2573,7 +2573,7 @@ SHA256: afdf31ded5d6b5ff00250bfadd77d0e71102d5aa728b6e26c6e3fe05707c2e5d
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BottomToolBar-Lite
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BottomToolBar-Lite
 Name: BottomToolBar-Lite繁體中文化
 
 Package: com.axcvd.NotiVibe
@@ -2589,7 +2589,7 @@ SHA256: 810603608c9ac11eb716af00dc2acce0905fae775f8805a889e25d8335e94df3
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NotiVibe
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NotiVibe
 Name: NotiVibe繁體中文化
 
 Package: com.axcvd.Axon
@@ -2605,7 +2605,7 @@ SHA256: 7062a87c7c8aa2719b233f520080be21bf5282f67148f7ac28f4b2484e0c31fc
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Axon
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Axon
 Name: Axon繁體中文化
 
 Package: com.axcvd.CPUTool
@@ -2621,7 +2621,7 @@ SHA256: 5e38a8c347d65564dec8fd2302a72786cbb8dcfe3a58fa4a6995fa1fdca3aec2
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CPUTool
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CPUTool
 Name: CPUTool 繁體中文化
 
 Package: com.axcvd.ColorBanners2
@@ -2637,7 +2637,7 @@ SHA256: 5b1cd6d34b8121f6a1e22725adea512011f027149c6b239efe434350ae66f949
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ColorBanners2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ColorBanners2
 Name: ColorBanners 2繁體中文化
 
 Package: com.axcvd.Pokebox
@@ -2653,7 +2653,7 @@ SHA256: 480dcb57931a3c621665fb3a33415375c079ba175f2801490b44f83e50a29274
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Pokebox
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Pokebox
 Name: Pokebox繁體中文化
 
 Package: com.axcvd.Dots2
@@ -2669,7 +2669,7 @@ SHA256: f25f62e93b9dac1375f7943490ff8ec06161c64a275e913ff05d78bb9387edb0
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dots2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Dots2
 Name: Dots 2繁體中文化
 
 Package: com.axcvd.AirPort13
@@ -2685,7 +2685,7 @@ SHA256: fc650a7ffb53a2c1cd2faa42f84568f0a722f46c8da4298d3ff1ef5ead8a3a2e
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AirPort13
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AirPort13
 Name: AirPort (ios 13)繁體中文化
 
 Package: com.axcvd.VoiceChangerXS
@@ -2701,7 +2701,7 @@ SHA256: db71ede0de1335b24435f97432039e5d117a3dac9f981a28342626836bffa1de
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.VoiceChangerXS
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.VoiceChangerXS
 Name: VoiceChanger XS繁體中文化
 
 Package: com.axcvd.SmartTap
@@ -2717,7 +2717,7 @@ SHA256: bb5d2baff0ed2761178baac690fd3b35d94e57b6c433afbc3d5ea45cddff9321
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmartTap
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SmartTap
 Name: SmartTap繁體中文化
 
 Package: com.axcvd.TransparentNotif
@@ -2733,7 +2733,7 @@ SHA256: c10099cd5b141f58f801b4bad1fce47db2913f27004d843c531115218d145410
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TransparentNotif
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TransparentNotif
 Name: TransparentNotif繁體中文化
 
 Package: com.axcvd.Emoji
@@ -2749,7 +2749,7 @@ SHA256: e7f4bd31a41238318f333815a3953b55ab09443d75c1dbd8bc0cdeead0802d8c
 Section: Themes
 Description: 新版Emoji表情符號請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
 Author: iPhonejB越獄維修安全攻略 <iPhonejB越獄維修安全攻略>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Emoji
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Emoji
 Name: 新版Emoji 表情符號
 
 Package: com.axcvd.KeyboardColor
@@ -2765,7 +2765,7 @@ SHA256: f03ff39c88a7fbf116cc8a19185aa5fdb4a67341c235308e850091abf8ae07bb
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.KeyboardColor
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.KeyboardColor
 Name: KeyboardColor繁體中文化
 
 Package: com.axcvd.Scorpion
@@ -2781,7 +2781,7 @@ SHA256: 349ccedbe043a217c5a9576c07dc8c93d9a9bff23d8739d355a89d34d929f78e
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Scorpion
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Scorpion
 Name: Scorpion繁體中文化
 
 
@@ -2798,7 +2798,7 @@ SHA256: 9996cf2ff121331718aad6ada9f5e15a0cd2ee591c7cbb0705ec4dd1943b24b8
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy1
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.yy1
 Name: 重啓動畫-XP<主題>
 
 Package: com.axcvd.yy2
@@ -2814,7 +2814,7 @@ SHA256: b0c12296138c31b4783ab0c1c6f18680285be756f56ae03c36cf7e0cae0156c9
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.yy2
 Name: 重啟動畫-北極熊<主題>
 
 Package: com.axcvd.yy3
@@ -2830,7 +2830,7 @@ SHA256: cf49d88df8515512914c30fe832df866b2b82cf33825f8dd1bb8988409dc7e3c
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy3
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.yy3
 Name: 重啟動畫-水箭龜<主題>
 
 Package: com.axcvd.yy4
@@ -2846,7 +2846,7 @@ SHA256: 556aa61065ea66bcc8cd9ff50e89bb9e026af7c5e61bd6b19c013cd296e13de3
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy4
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.yy4
 Name: 重啟動畫-漫畫<主題>
 
 Package: com.axcvd.yy5
@@ -2862,7 +2862,7 @@ SHA256: 804414dd8a09a908ca03fdf931ad9eb6dd470dd856cb7e8ffd9d965159f6fbff
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy5
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.yy5
 Name: 重啟動畫-红眼<主題>
 
 Package: com.axcvd.3344
@@ -2878,7 +2878,7 @@ SHA256: 9c79f28325eb458419fffa5c910067a16ed2449e0b0d6526420f69b0fe87a685
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.3344
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.3344
 Name: 多種風格設置開關美化<主題>
 
 Package: com.axcvd.yy6
@@ -2894,7 +2894,7 @@ SHA256: e4f02e57da7264ea2e35d1d271aa90eb330f19487a5449387464156f06ed133a
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy6
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.yy6
 Name: 重啓動畫-復仇者聯盟<主題>
 
 Package: com.axcvd.yy7
@@ -2910,7 +2910,7 @@ SHA256: 43ca4ed3feb85b4578a5a9f9877524fc83b5356f3efdc5f3e2cc3288dcb0c5ad
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy7
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.yy7
 Name: 重啓動畫-彩色蘋果<主題>
 
 Package: com.axcvd.yy8
@@ -2926,7 +2926,7 @@ SHA256: 90da017e0f3603f77b54bfa44f89078d6a19a41128acdb4c35c93999900a4be8
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.yy8
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.yy8
 Name: 重啓動畫-神盾局特工<主題>
 
 
@@ -2943,7 +2943,7 @@ SHA256: dd8ebf8a59e5e3fa83837f5d5082d6db2ca0c174982cb81aa5b053ca3333973d
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SettingsWidgets
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SettingsWidgets
 Name: SettingsWidgets繁體中文化
 
 Package: com.axcvd.Vinyl
@@ -2959,7 +2959,7 @@ SHA256: 1fb92d76c9dd2bc03ecf0c210886d29891b8d1d8b579c56ea448cbc37be0765e
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Vinyl
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Vinyl
 Name: Vinyl繁體中文化
 
 Package: com.axcvd.HapticMyRespring
@@ -2975,7 +2975,7 @@ SHA256: 91d6846580ef21f43d1a13a9613fa846130ac0fe5c9c8a0425f18f5e634c34bd
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HapticMyRespring
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.HapticMyRespring
 Name: HapticMyRespring 繁體中文化
 
 Package: com.axcvd.AdaptiveDarkMode
@@ -2991,7 +2991,7 @@ SHA256: 683547155f7ac52f0f7ca2fa1910a0d464bb40a8f064cc92d524426ee1720dcd
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AdaptiveDarkMode
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AdaptiveDarkMode
 Name: AdaptiveDarkMode 繁體中文化
 
 Package: com.axcvd.Edge
@@ -3007,7 +3007,7 @@ SHA256: d0ed3fa8c95f7fbc040cd1319949a58c57d978312c507ff436bd5e0f1c8debed
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Edge
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Edge
 Name: Edge 繁體中文化
 
 Package: com.axcvd.Luminous
@@ -3023,7 +3023,7 @@ SHA256: 477b07b37002151fb808dca2c05e8074d5e0fa2957272008c9b3336d751c1354
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Luminous
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Luminous
 Name: Luminous繁體中文化
 
 Package: com.axcvd.PullOverPro
@@ -3039,7 +3039,7 @@ SHA256: 71e7bdf7918368e626bedb2decd49bab56e4eef3f5c344cd27b2569522879afc
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PullOverPro
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.PullOverPro
 Name: PullOver Pro繁體中文化
 
 Package: com.axcvd.InstaLauncher2
@@ -3055,7 +3055,7 @@ SHA256: 9db9f625d2e6f6acc105c1c4571934d50a972e5b857d889b8ae37c8bb50cd127
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.InstaLauncher2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.InstaLauncher2
 Name: InstaLauncher 2繁體中文化
 
 Package: com.axcvd.MilkyWay
@@ -3071,7 +3071,7 @@ SHA256: 8c421f5f788c34d49dab0039f2463ee8567899937e2615edd939365cadc21f22
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MilkyWay
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MilkyWay
 Name: MilkyWay2繁體中文化
 
 Package: com.axcvd.NewTerm
@@ -3087,7 +3087,7 @@ SHA256: 899c950a207be457f4f52e2c38824fc5d2b37fd300058af12328c6dd4122a39b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NewTerm
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NewTerm
 Name: NewTerm繁體中文化
 
 Package: com.axcvd.No2Theft3
@@ -3103,7 +3103,7 @@ SHA256: 968e08a8b2c31159fd6a406d9a5058782cc87880f0ce8bbccab6353e723fec57
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.No2Theft3
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.No2Theft3
 Name: No2Theft3繁體中文化
 
 Package: com.axcvd.Bonzi
@@ -3119,7 +3119,7 @@ SHA256: 8fc230b590653034ea815fb9b87fafedcbf60eb79413ee16f9161156124670d7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Bonzi
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Bonzi
 Name: Bonzi繁體中文化
 
 Package: com.axcvd.TouchFlow
@@ -3135,7 +3135,7 @@ SHA256: 8a0dae44a0b8dc06bbf8b085a57daf9d73891b549b73c550ebc5130bd4adf1e5
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TouchFlow
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TouchFlow
 Name: TouchFlow繁體中文化
 
 Package: com.axcvd.YTKPrefs
@@ -3151,7 +3151,7 @@ SHA256: b3c86f47b0e15f7b173c13094c177ffb12020c879a9100fdac42f4a4c6a33b68
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.YTKPrefs
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.YTKPrefs
 Name: YTKPrefs 繁體中文化
 
 Package: com.axcvd.kai
@@ -3167,7 +3167,7 @@ SHA256: 617073a186cd1ec059996dedb6cd5703430acb0cde7a30b35c43816c0a461763
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.kai
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.kai
 Name: kai 繁體中文化
 
 Package: com.axcvd.SplitApp
@@ -3183,7 +3183,7 @@ SHA256: ecee92b11b771ebb28316b0d134aaf5761429e0407cc1a1bef1185081bbec2dd
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SplitApp
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SplitApp
 Name: SplitApp 繁體中文化
 
 Package: com.axcvd.MyWall
@@ -3199,7 +3199,7 @@ SHA256: 9a3cf55633735cbf92822e8f2621db3382f934061b5060207dc517ce510c33ec
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MyWall
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MyWall
 Name: MyWall 繁體中文化
 
 Package: com.axcvd.Glow
@@ -3215,7 +3215,7 @@ SHA256: e85084414e98df7b4f9b7b2dfa742ee127ec373c6c46f5eded626e8a4c071784
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Glow
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Glow
 Name: Glow 繁體中文化
 
 Package: com.axcvd.DictMojiX
@@ -3231,7 +3231,7 @@ SHA256: 6a44c3411a5a47427b5bc8c0c6446c673a43f34b543c7500625c491cbf07cbfd
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DictMojiX
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DictMojiX
 Name: DictMojiX 繁體中文化
 
 Package: com.axcvd.InstagramNoAds
@@ -3247,7 +3247,7 @@ SHA256: 611f86dd9a02c7c81174c16b58fe920ad823e4d504a744138123eb8ac8635d70
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.InstagramNoAds
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.InstagramNoAds
 Name: Instagram No Ads 繁體中文化
 
 Package: com.axcvd.ScrolleX
@@ -3263,7 +3263,7 @@ SHA256: a243abe745e9b7d500d8a6c8fc8aaadd0b636866270718a8e0c309804d6f1491
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ScrolleX
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ScrolleX
 Name: ScrolleX 繁體中文化
 
 Package: com.axcvd.TikTokGod
@@ -3279,7 +3279,7 @@ SHA256: 318784655fd83656d913b46552dbbdd928f23728f163b67f53387827dd46c024
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TikTokGod
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TikTokGod
 Name: TikTokGod 繁體中文化
 
 Package: com.axcvd.TwitchNoAds
@@ -3295,7 +3295,7 @@ SHA256: dedb3f88a636ea3698a195e0a9f13fee91acde7ed68308b73f6d0a2321c9ce34
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TwitchNoAds
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TwitchNoAds
 Name: Twitch No Ads 繁體中文化
 
 Package: com.axcvd.TwitterNoAds
@@ -3311,7 +3311,7 @@ SHA256: b15311068f3a9164b6b5ed340d67fc62958a7c0c91cdb8b8ec591b5101006043
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TwitterNoAds
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TwitterNoAds
 Name: Twitter No Ads 繁體中文化
 
 Package: com.axcvd.AFSocial
@@ -3327,7 +3327,7 @@ SHA256: a91df506e3a458fef56a88d2d5cb6c92ee734b09e9d6c070f0df845b5e4ba6b4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AFSocial
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AFSocial
 Name: AFSocial 繁體中文化
 
 Package: com.axcvd.FastAppLS
@@ -3343,7 +3343,7 @@ SHA256: a78d9dbc9936833c51d1b5dc5c61e0da2820e6cb3be50f9a4854afbcab514a8d
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FastAppLS
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.FastAppLS
 Name: FastAppLS 繁體中文化
 
 Package: com.axcvd.HomeroRun
@@ -3359,7 +3359,7 @@ SHA256: 50deac879127c727c2c170af5562cddfa61fb035fa2bf4853ab20191ce406511
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.HomeroRun
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.HomeroRun
 Name: HomeroRun 繁體中文化
 
 Package: com.axcvd.SkinnyMenu
@@ -3375,7 +3375,7 @@ SHA256: e33c86ae48f84d13cbbb228af4625b2fc868db982945069600965d59a37f22c1
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SkinnyMenu
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SkinnyMenu
 Name: SkinnyMenu 繁體中文化
 
 Package: com.axcvd.Switchus
@@ -3391,7 +3391,7 @@ SHA256: 820f8eddb7c78c534b66836851818e6eb4cbfd11e0e0ceae0bf992787f43b755
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Switchus
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Switchus
 Name: Switchus 繁體中文化
 
 Package: com.axcvd.Rainbow
@@ -3407,7 +3407,7 @@ SHA256: 881564f5c71269ab51db399a4bdd4506142f55e039f4efb846f6fad92c7b3514
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Rainbow
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Rainbow
 Name: Rainbow 繁體中文化
 
 Package: com.axcvd.Choicy
@@ -3423,7 +3423,7 @@ SHA256: 204688DA0F3378FDA60980781ACA4CC452F4C482B207722B6BC2709DB41BC95A
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Choicy
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Choicy
 Name: Choicy 繁體中文化
 
 Package: com.axcvd.Laetus
@@ -3439,7 +3439,7 @@ SHA256: 01e65d8a2ef3369392295475f83c0de52137a1c56279ca9171d6ca51417b5890
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Laetus
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Laetus
 Name: Laetus 繁體中文化
 
 Package: com.axcvd.Crane
@@ -3455,7 +3455,7 @@ SHA256: E0FD8260C52917A127A9FFD0EF6129238A818EC8D8A9A5D4BEABABB07F734C0B
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Crane
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Crane
 Name: Crane 繁體中文化
 
 Package: com.axcvd.BattSafePro
@@ -3471,7 +3471,7 @@ SHA256: 8477c32de3b54d9bff9123e3e03e9a59465e0dfb99c7846a11865c16e9bf3bf6
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BattSafePro
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BattSafePro
 Name: BattSafePro 繁體中文化
 
 Package: com.axcvd.MilkyWay3
@@ -3487,7 +3487,7 @@ SHA256: dd963a5146c495cc24bc3e905df69c3e32a17acd79314e361780b2157c8b1912
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MilkyWay3
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MilkyWay3
 Name: MilkyWay3 繁體中文化
 
 Package: com.axcvd.Lynx
@@ -3503,7 +3503,7 @@ SHA256: bdccfd4ff5c1b3206b9161b00ddae4f4ee3f7415fe56f7c7a28d527e77280aa2
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Lynx
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Lynx
 Name: Lynx 繁體中文化
 
 Package: com.axcvd.DarkGMaps
@@ -3519,7 +3519,7 @@ SHA256: aa85d9b4821662b119fc97f52570cf5710f5a690dc93a74097c3265d96f9489f
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DarkGMaps
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DarkGMaps
 Name: Dark GMaps 繁體中文化
 
 Package: com.axcvd.Dimage
@@ -3535,7 +3535,7 @@ SHA256: aeb27398ddd330b5988fb2545389d0f88074ea23662ef5237f0414a87aa6a1cb
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Dimage
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Dimage
 Name: Dimage 繁體中文化
 
 Package: com.axcvd.DnDSwitch
@@ -3551,7 +3551,7 @@ SHA256: bfaa2df97237d0bb2761f2b5bbce5659bccb4599d68f2ee09652a11a306924f3
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DnDSwitch
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DnDSwitch
 Name: DnDSwitch 繁體中文化
 
 Package: com.axcvd.FlyJBX
@@ -3567,7 +3567,7 @@ SHA256: f6f3dc82ded0a8369668229492602a0e39b30ebdde34f0b8d99251ed6fc67054
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FlyJBX
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.FlyJBX
 Name: FlyJB X 繁體中文化
 
 Package: com.axcvd.SmartBattery2
@@ -3583,7 +3583,7 @@ SHA256: 3e01657e94b114acc16f01b9702d3cb448eb1fb142906ba2192b3a4c3decffd1
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SmartBattery2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SmartBattery2
 Name: SmartBattery2 繁體中文化
 
 Package: com.axcvd.AccDemo
@@ -3599,7 +3599,7 @@ SHA256: 3e01657e94b114acc16f01b9702d3cb448eb1fb142906ba2192b3a4c3decffd1
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AccDemo
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AccDemo
 Name: AccDemo 繁體中文化
 
 Package: com.axcvd.CallBarXPre
@@ -3615,7 +3615,7 @@ SHA256: d1917579ad3eafb2c6811b4c50863d4fe7b829b705773b0b1dbe67496d31a130
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CallBarXPre
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CallBarXPre
 Name: CallBar XS(iOS12/13/14) 繁體中文化
 
 Package: com.axcvd.GmailNoAds
@@ -3631,7 +3631,7 @@ SHA256: ca3b45d36f237c8e80378cb01e4a9ed788278e89b18451b35a6bbc68940f010b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.GmailNoAds
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.GmailNoAds
 Name: Gmail No Ads 繁體中文化
 
 Package: com.axcvd.Hestia
@@ -3647,7 +3647,7 @@ SHA256: 6e81182ef33181002b4b40d79f501f7d604c3dcbc578b67dcc6abef92f84d4c0
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Hestia
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Hestia
 Name: Hestia 繁體中文化
 
 Package: com.axcvd.killallapps
@@ -3663,7 +3663,7 @@ SHA256: 7ce4f875d61ba87ddd8efcb5e6eab7b53582bdd83fff03ed0ef66dc91f949fc7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.killallapps
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.killallapps
 Name: Kill All Apps 繁體中文化
 
 Package: com.axcvd.MitsuhaForever
@@ -3679,7 +3679,7 @@ SHA256: 9d720cf5878bf6aad9b1df153e830660cef297431a8576a936bbe92bf689c54e
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MitsuhaForever
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MitsuhaForever
 Name: Mitsuha Forever 繁體中文化
 
 Package: com.axcvd.MYbloXXforiOS
@@ -3695,7 +3695,7 @@ SHA256: 3166069e9edf0bf80bda95936492f4c3b0f3d4a8ee385f4d21ff547a22bd5c2c
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MYbloXXforiOS
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MYbloXXforiOS
 Name: MYbloXXfor iOS 繁體中文化
 
 Package: com.axcvd.FacebookNoAds
@@ -3711,7 +3711,7 @@ SHA256: c8558ab39d5763c0f223c594a01a3144afb951dcd4a69717094f4ffc93e7ba44
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.FacebookNoAds
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.FacebookNoAds
 Name: Facebook No Ads 繁體中文化
 
 Package: com.axcvd.IconCert
@@ -3727,7 +3727,7 @@ SHA256: 0d2b433425c601966ede5b17cae7910e8886f53d5d382ae695d7367f432abd14
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.IconCert
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.IconCert
 Name: IconCert 繁體中文化
 
 Package: com.axcvd.AnimPlus
@@ -3743,7 +3743,7 @@ SHA256: 45f2d49792d464a6f44c9440c9d12155b80a114d36c88fc334c6cd2e83aee729
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AnimPlus
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AnimPlus
 Name: AnimPlus 繁體中文化
 
 Package: com.axcvd.Scribble
@@ -3759,7 +3759,7 @@ SHA256: dce613f35e4a9b53c311856667616702010989a00449f825133e293644d7036b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Scribble
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Scribble
 Name: Scribble 繁體中文化
 
 Package: com.axcvd.y1
@@ -3775,7 +3775,7 @@ SHA256: 526fce706fa1787fed9c2a49c5b02427bda14ccb7fa96bd4c06ee86eaa6b0b91
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.y1
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.y1
 Name: 遮罩-立體頂亮
 
 Package: com.axcvd.y2
@@ -3791,7 +3791,7 @@ SHA256: 8c8de06e11c1e647659fd7a65735ffb6d73ee50aaee49282722c8a54da736a9b
 Section: Themes
 Description: 請安裝Anemone和SnowBoard二個選擇一,一款主題來套用不然不行用喔！
 Author: 網路上找到 <網路上找到>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.y2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.y2
 Name: 遮罩-超級立體
 
 Package: com.axcvd.Orion
@@ -3807,7 +3807,7 @@ SHA256: b6ba7c97df91a68abdac2e14b87e75937ebec8d70b9a1669765f7785fbf9f7d8
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Orion
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Orion
 Name: Orion 繁體中文化加简体中文化
 
 Package: com.axcvd.April
@@ -3823,7 +3823,7 @@ SHA256: 65b208b4395bb43e5c12461529aa3b04faad2f87ab20b09d314889db15b5ac70
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.April
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.April
 Name: April 繁體中文化
 
 Package: com.axcvd.ProKeys
@@ -3839,7 +3839,7 @@ SHA256: 4d1e6b099656875d43ab69bd9d2b280538a2552e0a909cd85303d07c11017869
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ProKeys
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ProKeys
 Name: ProKeys 繁體中文化
 
 Package: com.axcvd.Atria
@@ -3855,7 +3855,7 @@ SHA256: 1d28fe9fb35407de1548ad7705a4c423b14c9e27165b20e0edb04261799a041b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Atria
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Atria
 Name: Atria 繁體中文化
 
 Package: com.axcvd.YouTubeReborn
@@ -3871,7 +3871,7 @@ SHA256: b5b95e0a81ccc83ec61a1b74d7016e819bd7268dfa183b7583fd742a798268b9
 Section: Tweaks
 Description: YouTube Reborn作者以下架這個是備份
 Author: Ryan,Sarah,Zoey <....>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.YouTubeReborn
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.YouTubeReborn
 Name: YouTube Reborn
 
 Package: com.axcvd.NotifyMe
@@ -3887,7 +3887,7 @@ SHA256: 8a5f6b990fd57dc4516c8759534a8c42cdbd506e6cf9ab9b17a210a8c55cffc9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.NotifyMe
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.NotifyMe
 Name: NotifyMe 繁體中文化
 
 Package: com.axcvd.BouncingApps
@@ -3903,7 +3903,7 @@ SHA256: c248c4bb8e8e90d96d1c33a10786cc2a34b41fea9b04a87f77049c07a591ec7b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BouncingApps
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BouncingApps
 Name: BouncingApps 繁體中文化
 
 Package: com.axcvd.ReScale2
@@ -3919,7 +3919,7 @@ SHA256: f36df34495500226fa1b861c3dba21a6e7adf31fc62004d34a0d9280b665cdc7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ReScale2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ReScale2
 Name: Re:Scale 2 繁體中文化
 
 Package: com.axcvd.AFont
@@ -3935,7 +3935,7 @@ SHA256: f3db79998c66e25e620c907794b052a164c628ec421d26751ffbea0ec875c00a
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AFont
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AFont
 Name: A-Font 繁體中文化
 
 Package: com.axcvd.LightsOut
@@ -3951,7 +3951,7 @@ SHA256: e23a1e1451c29042ecc24a800f7a8fefcb9265582a3aac4b52cfe5387acd781b
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.LightsOut
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.LightsOut
 Name: LightsOut 繁體中文化
 
 Package: com.axcvd.Spectrum
@@ -3967,7 +3967,7 @@ SHA256: 9c58b53b099f646cbecec837d2b5073ae7a2ea3995154133266a90bf06f401c7
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Spectrum
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Spectrum
 Name: Spectrum 繁體中文化
 
 Package: com.axcvd.AirPodsCaseLowBattery
@@ -3983,7 +3983,7 @@ SHA256: 1cfd57849f8ebce4e289a3d9dafd8bc2a940ed024242d32d3a6e71667acad8a9
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AirPodsCaseLowBattery
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AirPodsCaseLowBattery
 Name: AirPods Case Low Battery 繁體中文化
 
 Package: com.axcvd.MagicalScrollbars
@@ -3999,7 +3999,7 @@ SHA256: 81388dabbeb0654339db71a03b8d3e90b655abbd58f9fbf68b4e5bbd3e075960
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MagicalScrollbars
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MagicalScrollbars
 Name: MagicalScrollbars 繁體中文化
 
 Package: com.axcvd.SettingsButtons
@@ -4015,7 +4015,7 @@ SHA256: 9702108c0e7df64db54b6cde609e4bf30b18f5ab97b1dcb20ca4ea4e17cae514
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.SettingsButtons
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.SettingsButtons
 Name: SettingsButtons 繁體中文化
 
 Package: com.axcvd.zxtouch
@@ -4031,7 +4031,7 @@ SHA256: b10e19fe0f68b1317f431c140c0174cad425f23ae03f7a5124fac5f38fd7a402
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.zxtouch
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.zxtouch
 Name: zxtouch 繁體中文化
 
 Package: com.axcvd.ABypass
@@ -4047,7 +4047,7 @@ SHA256: 928281dc45c347453461247c8c5e894822546076ecf4c6e65328059f8e6097b4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ABypass
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ABypass
 Name: A-Bypass 繁體中文化
 
 Package: com.axcvd.ShakeitOff
@@ -4063,7 +4063,7 @@ SHA256: a8e4954ca736ed909526dce47161bdaad2a988410d3aae73b4eec937a4260eb3
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.ShakeitOff
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.ShakeitOff
 Name: ShakeitOff 繁體中文化
 
 Package: com.axcvd.Vide
@@ -4079,7 +4079,7 @@ SHA256: fd188d9804b98ef20f387051a324125a998e46384fe65b42d7becf21a323809c
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Vide
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Vide
 Name: Vide 繁體中文化
 
 Package: com.axcvd.Amelija
@@ -4095,7 +4095,7 @@ SHA256: 8576a1845ffd62aa7e8395a14927eb469ccfd09fede863cdfa38636abbeb46a6
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Amelija
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Amelija
 Name: Amelija 繁體中文化
 
 Package: com.axcvd.Tako
@@ -4111,7 +4111,7 @@ SHA256: CF2657419409242E20A3E92A1A0B23BEF60ACE4190D0E8DDF31EB6CDBC4E8786
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Tako
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Tako
 Name: Tako 繁體中文化
 
 Package: com.axcvd.flyjbx1
@@ -4125,7 +4125,7 @@ MD5sum: 7B19B71B1EAE4AC9D8BF134797A3FCA4
 SHA1: 67B9071472D2EA5DB5FC8720F511AFE989BA6A06
 SHA256: 9CBB1F55BB8DDA6F3AA3C07DC03535A9DB6CBF1A1903BACCDC3B52D9C54E2713
 Description: 你可以隱藏越獄你的iDevice.這個是備份
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.flyjbx1
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.flyjbx1
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: XsF1re
 Section: Tweaks
@@ -4144,7 +4144,7 @@ SHA256: C855C99C5BF21CCC7248D562F7F4A9AD9035314815500BB3C0729B12E618C836
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.BackupAZ4
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.BackupAZ4
 Name: BackupAZ4 繁體中文化
 
 Package: com.axcvd.Cucu
@@ -4160,7 +4160,7 @@ SHA256: 378D529668BD28FFDB2FCEAB051DB083FC8EE067687B998B2E6E97E412109F07
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Cucu
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Cucu
 Name: Cucu 繁體中文化
 
 Package: com.axcvd.PencilBanner
@@ -4176,7 +4176,7 @@ SHA256: DB27F55FBB0E1B7466FA4E04905CFBE771F0AC578ED4E2FA90B10299CB48FBF4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PencilBanner
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.PencilBanner
 Name: PencilBanner 繁體中文化
 
 Package: com.axcvd.AdvancedBrightnessSlider
@@ -4192,7 +4192,7 @@ SHA256: B5A064AFFB2FC73E1B1A65C22C4AF55B8C172A9B6B1A8922B612DF5B00548370
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.AdvancedBrightnessSlider
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.AdvancedBrightnessSlider
 Name: AdvancedBrightnessSlider 繁體中文化
 
 Package: com.axcvd.PlayTopia2
@@ -4208,7 +4208,7 @@ SHA256: 91039E73F294A4BAFEA61431502B4FEB405BB234DDE06F50B334B381DCDAAD48
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.PlayTopia2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.PlayTopia2
 Name: PlayTopia2 繁體中文化
 
 Package: com.axcvd.Aemulo
@@ -4224,7 +4224,7 @@ SHA256: 45D250DF7D9DD4AB3375187BDDB292D0DD3EDCC1F69D89A7ED4EE41088C2E3E0
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Aemulo
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Aemulo
 Name: Aemulo 繁體中文化
 
 Package: com.axcvd.Deficient
@@ -4240,7 +4240,7 @@ SHA256: 250719675CB4214035FED2E7176A0070D9C4FB45A53CFDFDDD1A6029296932EE
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Deficient
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Deficient
 Name: Deficient 繁體中文化
 
 Package: com.axcvd.MilkyWay22
@@ -4253,7 +4253,7 @@ MD5sum: 923024A535724E21E81E83BDED2EAA9E
 SHA1: 2F77EAAA951F5EE6883E2166732DC820159D4CA6
 SHA256: 12D0D0DFBD15E860DBCEFE24A92471ECA7C18A812D301289D91E298CB480D31B
 Description: MilkyWay2
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.MilkyWay22
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.MilkyWay22
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: Brend0n
 Section: Tweaks
@@ -4273,7 +4273,7 @@ SHA256: F48497A96B9C13D887623319BEA45D815824824B06832CABC4511A517920530E
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.DockX
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.DockX
 Name: DockX 繁體中文化
 
 Package: com.axcvd.TweakSettings
@@ -4289,7 +4289,7 @@ SHA256: 356739601100C9638EE97593A2F24499B0280BDC00D637A86AAF201C8CC3684D
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.TweakSettings
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.TweakSettings
 Name: TweakSettings 繁體中文化
 
 Package: com.axcvd.a1
@@ -4303,7 +4303,7 @@ SHA256: 4B86BBA71D410AB6E8BCFABAB43584A34E32D2AF0D99BBFB2D3ACD2B7A6F24D0
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a1
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a1
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4320,7 +4320,7 @@ SHA256: A5EDF645553BA288A6C43AC3E884E8F22F5C25B3FF31896B3F24D9B9FB7022B9
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a2
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4337,7 +4337,7 @@ SHA256: A1787EA8E4B84A91ED24F3502823D779949B097F7A1D4DD15B7CD8BF5245C7DC
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a3
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a3
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4354,7 +4354,7 @@ SHA256: 2E616C29B326C842CDC940C9BE738ABCCB722F46E5F989DFE97A208DD89A3D30
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a4
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a4
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4371,7 +4371,7 @@ SHA256: F183F4F0151C8C64F04F8CF189824DA8041BC7691C1D53DAF3127C12F609C520
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a5
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a5
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4388,7 +4388,7 @@ SHA256: 1E1A23024F68AA492B2233F1E80D3CBD7EA6032A0450769D64A3D7E56B25581D
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a6
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a6
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4405,7 +4405,7 @@ SHA256: 67D7FEEC048A868818A20C68A18737EA25BFE7F436D0D7E89700E5250CE7827D
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a7
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a7
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4422,7 +4422,7 @@ SHA256: 78DB040402DB03E03C9BBFA3659176BD2D6E4DAF0E763060C1E8177DB2A88EBA
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a8
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a8
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4439,7 +4439,7 @@ SHA256: DF9435EBBC7C9C820051AAF62552600140922953548CD624AF85AA2B8818E457
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a9
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a9
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4456,7 +4456,7 @@ SHA256: 86E6A3605A69CCF3D1D600D58F7CC7FD4BFDFBCF5CA17F8835B675A04CA4884F
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a10
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a10
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4473,7 +4473,7 @@ SHA256: C2CA865E1EDAAD02E747489855719B29B356609600630F9BD0DE4DC6B7D1CE43
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a11
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a11
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4490,7 +4490,7 @@ SHA256: A52DD93DEB8305FF4AD4B7966FF26A39B2BB002456881CCA6399CC7019C5663D
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a12
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a12
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4507,7 +4507,7 @@ SHA256: A344BD5724236960BCD601DD83B36D914E64152441A359120619B561036F73BF
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a13
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a13
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4524,7 +4524,7 @@ SHA256: 1329F7CDBA49761A724A6AAF0A271E9F8C79A31C1FA9C9D04ACDEFC3B42A38E2
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a14
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a14
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4541,7 +4541,7 @@ SHA256: C4EEAAC0FADA857E678170AE8F0508B9A105B5613DC25F809AD3ACB9D68E1F95
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a15
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a15
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4558,7 +4558,7 @@ SHA256: 4EB59ACD939CE599FFB3B774B959DE30EEBCBDAF99610BF43D752D4B92FFA9DD
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a16
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a16
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4575,7 +4575,7 @@ SHA256: D97B7E9183B62A107BE8454691C028F8DE21E239E83F5B47835B79BFF8CB0D23
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a17
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a17
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4592,7 +4592,7 @@ SHA256: 96AFA398AF8B48444F3CC6F1F1ABF8D210ABA76298FF4F0CA857E0E7815C7012
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a18
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a18
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4609,7 +4609,7 @@ SHA256: 3337AD88B4ABDAC0BD49CB03BABA4A744480241051100FA0DEF0B1920DBE11C9
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a19
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a19
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4626,7 +4626,7 @@ SHA256: 0571A2813F4D978A577073ACB6F63ABC853304DA189D3D18EDC23465187BC89E
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a20
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a20
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4643,7 +4643,7 @@ SHA256: 8524A673D4DD42AFEE2DF3318E0A593739E0872175647BD1E701260FFBDCF676
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a21
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a21
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4660,7 +4660,7 @@ SHA256: E250876E191EA045C44F314D59D846E6C5302348491602A7EE7ADBF1B6065288
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a22
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a22
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4677,7 +4677,7 @@ SHA256: E43BB7A93E84B9059584FECC5864DACA301F37B8A7D9AA8C933444419F3E8DC4
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a23
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a23
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4694,7 +4694,7 @@ SHA256: 3AFA9D6D4420E46A05F48438BCE7850B0273CDF1B4CE2127D4B47CFFD0E86B91
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a24
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a24
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4711,7 +4711,7 @@ SHA256: 6C903085E6F527317746D436EADFA5C054A28F8E13585B50EBDFE4135E39B0BC
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a25
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a25
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4728,7 +4728,7 @@ SHA256: BDE9F7DB94D34A66DCB6EF1D5034D0417FAD07F58EEDA32E53FE947114C81E37
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a26
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a26
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4745,7 +4745,7 @@ SHA256: FCA9EB9D885B514B6B950E50B65E186C83AD408329053A0EC6DE5439FC59BF93
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a27
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a27
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4762,7 +4762,7 @@ SHA256: 1203E0A6E3857A9221124C0AEF5C2EF455501D73CAC1AA0913CDF25570A03F7D
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a28
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a28
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4779,7 +4779,7 @@ SHA256: FAB8A1F334113A96DFB9B0D70ACE02BEC45C776EB9AE0DF7DAC137C6491E1698
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a29
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a29
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4796,7 +4796,7 @@ SHA256: 679346B1175F1F7A3D75CB81FAC28BE2F6C331A28EC732099ED4AC340B188318
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a30
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a30
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4813,7 +4813,7 @@ SHA256: 7B9D830AF076D4792B0BD0E02384567CB90E3E770000B9FDF728A78DF8151DB8
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a31
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a31
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4830,7 +4830,7 @@ SHA256: 84106A4E773B468045F8C0A6EC5AF718C214C27A75EE2B650E788A335F93E174
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a32
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a32
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4847,7 +4847,7 @@ SHA256: 96CCEBAA3147588D16B7996BB13A30D2DC2CE7A297B9297DE33B8AA66EC64412
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.a33
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.a33
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4863,7 +4863,7 @@ Size: 1186
 MD5sum: 6313395E401DEDE6FD9145348D8AC931
 SHA1: 80311FE23A8C517D4D8A2B1380E06BDEE1CA6935
 SHA256: F219317CDECD70343E178A9E4CFB39B32E579CFE8FDD0BE80EAF7DAE619981E5
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.1111
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.1111
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Tweaks
@@ -4882,7 +4882,7 @@ SHA256: 8F2F6322DF64ACFF6A18C72C2EA5AF8D6AFDA3B4FBB9D77502D143687F5483D4
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.CustomSounds2
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.CustomSounds2
 Name: CustomSounds 2 繁體中文化
 
 Package: com.axcvd.Zetsu
@@ -4898,7 +4898,7 @@ SHA256: D9C9B5193B22C47F3790E310552BD308CCC5EB3DFD4E8F3A7681D95FAE096BF6
 Section: Localization
 Description: 使用前先裝主程式不然就沒有中文化了
 Author: 小謝 <vv741852v@gmail.com>
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.Zetsu
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.Zetsu
 Name: Zetsu 繁體中文化
 
 Package: com.axcvd.34
@@ -4912,7 +4912,7 @@ SHA256: 5B1F1BB001B511AFDFC9F09D648E9442B4D05D2D7377AB5CCAC5E113E408BAA5
 Section: Localization
 Architecture: iphoneos-arm
 Description: 請安裝Anemone和SnowBoard二個選擇一款主題來套用不然不行用喔！
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.34
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.34
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Fonts
@@ -4928,7 +4928,7 @@ Size: 1534
 MD5sum: dd9c791c3881929a89f7fd43fd24a416
 SHA1: e265d93bf589e5eb75d59c8cd1b4366e0aec848e
 SHA256: cbc6c9e3fe99fdcac3a54a610a8b76800bfcf3b965915c71561888a9bb5a2221
-Depiction: https://axcvd.github.io/repo/depictions/?p=com.axcvd.coco
+Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.coco
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
 Section: Tweaks
