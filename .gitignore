@@ -1,0 +1,4 @@
+/test/*.*
+/test/repo/*
+git config user.name "axcvd"
+git config user.email "vv741852v@gmail.com"
