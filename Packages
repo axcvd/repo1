@@ -4940,10 +4940,10 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 隱藏勿擾模式通知
 Filename: ./debs/com.axcvd.61_1.0.1_iphoneos-arm.deb
-Size: 9132
-MD5sum: f979330f1af2cf15fa103c4192a00a63
-SHA1: 96b180315438ec436160cb626b7f0e13ef2f72c1
-SHA256: 930fe2166d462ce4b327ce30910d72c22ff181817af700cacffe2e594456a369
+Size: 9142
+MD5sum: e192caa40772f969249ab45c43c7991a
+SHA1: 1908317dac69e7028ce961f909416b23f164961e
+SHA256: 752fce7d8ee6a7b1ea9f78f613cc89ed6bf5c4154d888a60ec8ae3cd1b0017b3
 Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.61
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
@@ -4956,10 +4956,10 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: 隱藏電話中的常用聯絡人和語音信箱
 Filename: ./debs/com.axcvd.62_1.0.1_iphoneos-arm.deb
-Size: 9348
-MD5sum: 8d070cddba51b0b03c06db1ee3f83060
-SHA1: 66bbb9c063ff83b17eb7db33d53ba0287fce92a7
-SHA256: c4b090ef824e09670d87693f61fa66247c088cb6369faa49c73639d641f6448e
+Size: 9356
+MD5sum: d2a166d59fbf7d7f2fba2384ca86d634
+SHA1: b44c770c6726b595f924f5ccac61d56f5b05208c
+SHA256: f1a0769a4f0b1f0c3f6ea2c6153e95d6d0069d7af0c47e1571246d6ad3c9e772
 Depiction: https://axcvd.github.io/repo1/depictions/?p=com.axcvd.62
 Maintainer: 小謝 <vv741852v@gmail.com>
 Author: 網路上找到的 <網路上找到的>
